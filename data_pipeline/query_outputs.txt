@@ -1,0 +1,299 @@
+
+Query 1 - SELECT and WHERE
+
+            SELECT title, price_gbp, rating
+            FROM books
+            WHERE rating >= 4
+        
+                                                           title  price_gbp  rating
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond      49.43       4
+                                              A Year in Provence      56.88       4
+                              1,000 Places to See Before You Die      26.08       5
+                                                   Sharp Objects      47.82       4
+                                             The Past Never Ends      56.50       4
+                                     The Murder of Roger Ackroyd      44.10       4
+                                               A Time of Torment      48.35       5
+                               Murder at the 42nd Street Library      54.36       4
+                                   What Happened on Beale Street      25.37       5
+                             The Bachelor Girl's Guide to Murder      52.30       5
+                                            Delivering the Truth      20.89       4
+                                 The Mysterious Affair at Styles      24.80       4
+                                                    The Silkworm      23.05       5
+                              The No. 1 Ladies' Detective Agency      57.70       4
+                                               The Girl You Lost      12.29       5
+                                              A Flight of Arrows      55.53       5
+                                                    Mrs. Houdini      30.25       5
+                                       The Marriage of Opposites      28.08       4
+                                               A Paris Apartment      39.01       4
+                                               World Without End      32.97       4
+                                           The Passion of Dolssa      28.32       5
+                                                         Voyager      21.07       5
+                                                    The Red Tent      35.66       5
+                                          Between Shades of Gray      20.79       5
+                                             While You Were Mine      41.32       5
+                                           Lost Among the Living      27.70       4
+                                                A Spy's Devotion      16.97       5
+                            Scott Pilgrim's Precious Little Life      52.29       5
+                                                 This One Summer      19.49       4
+                                               The Nameless City      38.16       4
+                      Princess Jellyfish 2-in-1 Omnibus, Vol. 01      13.61       5
+                       Outcast, Vol. 1: A Darkness Surrounds Him      15.44       4
+                                            Danganronpa Volume 1      51.99       4
+             Codename Baboushka, Volume 1: The Conclave of Death      36.72       4
+                                                   Camp Midnight      17.08       4
+                                Fables, Vol. 1: Legends in Exile      41.62       4
+                                 Batman: The Dark Knight Returns      15.38       5
+                             Wonder Woman: Earth One, Volume One      37.34       4
+                                   Superman Vol. 1: Before Truth      11.89       5
+                                      So Cute It Hurts!!, Vol. 6      35.43       4
+                                                        El Deafo      57.62       5
+                                           Fruits Basket, Vol. 9      33.95       4
+                                                     Roller Girl      14.10       5
+                                           Fruits Basket, Vol. 6      20.96       4
+                                           Fruits Basket, Vol. 4      50.44       4
+                              The Sandman, Vol. 3: Dream Country      55.55       5
+                                                  Saga, Volume 3      21.57       5
+                                           Fruits Basket, Vol. 2      11.64       5
+                               Y: The Last Man, Vol. 1: Unmanned      18.51       4
+                        Rat Queens, Vol. 1: Sass & Sorcery  #1-5      46.96       5
+                                             Paper Girls, Vol. 1      21.71       4
+                                   Ms. Marvel, Vol. 1: No Normal      39.39       4
+                                              Giant Days, Vol. 1      56.76       4
+                                           Fruits Basket, Vol. 1      40.28       5
+                 Bleach, Vol. 1: Strawberry and the Soul Reapers      34.65       5
+                                      Ajin: Demi-Human, Volume 1      57.06       4
+
+Query 2 - ORDER BY
+
+            SELECT title, price_gbp
+            FROM books
+            ORDER BY price_gbp DESC
+        
+                                                                    title  price_gbp
+                                                              Boar Island      59.48
+                                       The No. 1 Ladies' Detective Agency      57.70
+                                                                 El Deafo      57.62
+                                               Ajin: Demi-Human, Volume 1      57.06
+                                                       A Year in Provence      56.88
+                                                       Giant Days, Vol. 1      56.76
+                                                      The Past Never Ends      56.50
+                                         The Last Painting of Sara de Vos      55.55
+                                       The Sandman, Vol. 3: Dream Country      55.55
+                                                       A Flight of Arrows      55.53
+                                    The Sandman, Vol. 2: The Doll's House      54.81
+                                             I am a Hero Omnibus Volume 1      54.63
+                                        Murder at the 42nd Street Library      54.36
+                                                            The Last Mile      54.21
+                              The Sandman, Vol. 1: Preludes and Nocturnes      54.12
+                                                               1st to Die      53.98
+                             We Are Robin, Vol. 1: The Vigilante Business      53.90
+                                                       Tipping the Velvet      53.74
+                                             Death Note, Vol. 5: Whiteout      52.41
+                                      The Bachelor Girl's Guide to Murder      52.30
+                                     Scott Pilgrim's Precious Little Life      52.29
+                                                     Danganronpa Volume 1      51.99
+                                     Lowriders to the Center of the Earth      51.51
+                                                           Saga, Volume 5      51.04
+                                                    Fruits Basket, Vol. 4      50.44
+                                       Rat Queens, Vol. 3: Demons  #11-15      50.40
+                        The Guernsey Literary and Potato Peel Pie Society      49.53
+         Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond      49.43
+                                                     Black Butler, Vol. 1      49.31
+       See America: A Celebration of Our National Parks & Treasured Sites      48.87
+                                                           Art Ops Vol. 1      48.80
+                                        orange: The Complete Collection 1      48.41
+                                                        A Time of Torment      48.35
+                                                            Sharp Objects      47.82
+                                                                Robin War      47.82
+                                 Rat Queens, Vol. 1: Sass & Sorcery  #1-5      46.96
+                               Lumberjanes, Vol. 2: Friendship to the Max      46.91
+                                                    Girl in the Blue Coat      46.83
+                          Glory over Everything: Beyond The Kitchen House      45.84
+                              Lumberjanes, Vol. 1: Beware the Kitten Holy      45.61
+                                     Hawkeye, Vol. 1: My Life as a Weapon      45.24
+                                                  It's Only the Himalayas      45.17
+                                                    Fruits Basket, Vol. 3      45.17
+                                                       A Summer In Europe      44.34
+                                              The Murder of Roger Ackroyd      44.10
+                                               Prodigy: The Graphic Novel      43.63
+                                                               The Exiled      43.45
+                                                  Grayson, Vol 3: Nemesis      42.72
+                                                      Skip Beat!, Vol. 01      42.12
+                                         Fables, Vol. 1: Legends in Exile      41.62
+                                                      While You Were Mine      41.32
+                                                    Fruits Basket, Vol. 1      40.28
+                                            Ms. Marvel, Vol. 1: No Normal      39.39
+                                     Persepolis: The Story of a Childhood      39.13
+                                                        A Paris Apartment      39.01
+                                Neither Here nor There: Travels in Europe      38.95
+                             Naruto , Vol. 14: Includes Vols. 40, 41 & 42      38.39
+                                                             In the Woods      38.38
+                                                        The Nameless City      38.16
+                                                                  Awkward      38.02
+                              Bitch Planet, Vol. 1: Extraordinary Machine      37.92
+                                                   The Invention of Wings      37.34
+                                      Wonder Woman: Earth One, Volume One      37.34
+                                                     Under the Tuscan Sun      37.33
+                                                    The House by the Lake      36.95
+      Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel      36.94
+                      Codename Baboushka, Volume 1: The Conclave of Death      36.72
+                           The Wicked + The Divine, Vol. 1: The Faust Act      36.52
+                                               Batman: The Long Halloween      36.50
+                                        Death Note, Vol. 6: Give-and-Take      36.39
+                                                             The Red Tent      35.66
+                                               So Cute It Hurts!!, Vol. 6      35.43
+                                                              Most Wanted      35.28
+                          Bleach, Vol. 1: Strawberry and the Soul Reapers      34.65
+                                                        The Secret Healer      34.56
+                                                    Fruits Basket, Vol. 9      33.95
+                                                          The Shadow Hero      33.14
+                                                        World Without End      32.97
+                                                           Batman: Europa      32.01
+                                                            Original Fake      31.45
+                                                 The Great Railway Bazaar      30.54
+                                                             Mrs. Houdini      30.25
+                                      Ouran High School Host Club, Vol. 1      29.87
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton      29.69
+                         I Hate Fairyland, Vol. 1: Madly Ever After  #1-5      29.17
+                                                           Saga, Volume 1      28.48
+                                                    The Passion of Dolssa      28.32
+                                                The Marriage of Opposites      28.08
+                                The Demon Prince of Momochi House, Vol. 4      27.88
+                                                    Lost Among the Living      27.70
+                                                                The Widow      27.26
+                                                                Poisonous      26.80
+                                                Girl With a Pearl Earring      26.77
+                                       1,000 Places to See Before You Die      26.08
+                                                                 Starlark      25.83
+                              Red Hood/Arsenal, Vol. 1: Open for Business      25.48
+                                                             Extreme Prey      25.40
+                                                        Through the Woods      25.38
+                                            What Happened on Beale Street      25.37
+                                          The Mysterious Affair at Styles      24.80
+                                                           Career of Evil      24.72
+       The Road to Little Dribbling: Adventures of an American in Britain      23.21
+                                                             The Silkworm      23.05
+                                                       Giant Days, Vol. 2      22.11
+                                                      Paper Girls, Vol. 1      21.71
+                                                           Saga, Volume 3      21.57
+                                                                  Voyager      21.07
+                                                    Fruits Basket, Vol. 6      20.96
+                                                     Delivering the Truth      20.89
+                                                   Between Shades of Gray      20.79
+                                                     Love, Lies and Spies      20.55
+                                                            Blood Defense      20.30
+                                      Lumberjanes Vol. 3: A Terrible Plan      19.92
+                                                     In a Dark, Dark Wood      19.63
+                                                    Fruits Basket, Vol. 7      19.57
+                                                          This One Summer      19.49
+                                                     The Cuckoo's Calling      19.21
+                                              Pop Gun War, Volume 1: Gift      18.97
+                                        Y: The Last Man, Vol. 1: Unmanned      18.51
+                                                              Lilac Girls      17.28
+                                                            Camp Midnight      17.08
+                                                         A Spy's Devotion      16.97
+                                                       A Study in Scarlet      16.73
+                                                         A Murder in Time      16.64
+                                                    The Constant Princess      16.62
+                                                    Fruits Basket, Vol. 5      16.33
+                                               Tsubasa: WoRLD CHRoNiCLE 2      16.28
+                                                      The Girl In The Ice      15.85
+                                Outcast, Vol. 1: A Darkness Surrounds Him      15.44
+                                          Batman: The Dark Knight Returns      15.38
+                      The Wicked + The Divine, Vol. 3: Commercial Suicide      14.41
+                                                              Roller Girl      14.10
+                                                            That Darkness      13.92
+                                                        Playing with Fire      13.71
+                               Princess Jellyfish 2-in-1 Omnibus, Vol. 01      13.61
+                                                        The Girl You Lost      12.29
+                                            Superman Vol. 1: Before Truth      11.89
+                                                                Hide Away      11.84
+                                                           Saga, Volume 2      11.75
+                                                    Fruits Basket, Vol. 2      11.64
+                    Adulthood Is a Myth: A "Sarah's Scribbles" Collection      10.90
+                                                         Tastes Like Fear      10.69
+                                                        The Complete Maus      10.64
+                                                                 Patience      10.16
+
+Query 3 - LIMIT
+
+            SELECT title, price_gbp
+            FROM books
+            LIMIT 10
+        
+                                                              title  price_gbp
+                                            It's Only the Himalayas      45.17
+   Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond      49.43
+ See America: A Celebration of Our National Parks & Treasured Sites      48.87
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel      36.94
+                                               Under the Tuscan Sun      37.33
+                                                 A Summer In Europe      44.34
+                                           The Great Railway Bazaar      30.54
+                                                 A Year in Provence      56.88
+ The Road to Little Dribbling: Adventures of an American in Britain      23.21
+                          Neither Here nor There: Travels in Europe      38.95
+
+Query 4 - DISTINCT
+
+            SELECT DISTINCT category_name
+            FROM categories
+        
+     category_name
+            Travel
+           Mystery
+Historical Fiction
+    Sequential Art
+
+Query 5 - IN and JOIN
+
+           SELECT
+                b.title,
+                b.rating,
+                b.price_inr,
+                c.category_name
+            FROM books AS b
+            JOIN categories AS c ON b.category_id = c.category_id
+            WHERE b.rating IN (4, 5)
+            ORDER BY b.rating DESC
+            LIMIT 10
+        
+                              title  rating  price_inr      category_name
+ 1,000 Places to See Before You Die       5    2751.44             Travel
+                  A Time of Torment       5    5100.92            Mystery
+      What Happened on Beale Street       5    2676.54            Mystery
+The Bachelor Girl's Guide to Murder       5    5517.65            Mystery
+                       The Silkworm       5    2431.78            Mystery
+                  The Girl You Lost       5    1296.59            Mystery
+                 A Flight of Arrows       5    5858.42 Historical Fiction
+                       Mrs. Houdini       5    3191.38 Historical Fiction
+              The Passion of Dolssa       5    2987.76 Historical Fiction
+                            Voyager       5    2222.89 Historical Fiction
+
+
+SQL JOIN result:
+                              title  rating  price_inr      category_name
+ 1,000 Places to See Before You Die       5    2751.44             Travel
+                  A Time of Torment       5    5100.92            Mystery
+      What Happened on Beale Street       5    2676.54            Mystery
+The Bachelor Girl's Guide to Murder       5    5517.65            Mystery
+                       The Silkworm       5    2431.78            Mystery
+                  The Girl You Lost       5    1296.59            Mystery
+                 A Flight of Arrows       5    5858.42 Historical Fiction
+                       Mrs. Houdini       5    3191.38 Historical Fiction
+              The Passion of Dolssa       5    2987.76 Historical Fiction
+                            Voyager       5    2222.89 Historical Fiction
+
+Pandas merge result:
+                              title  rating  price_inr      category_name
+ 1,000 Places to See Before You Die       5    2751.44             Travel
+                  A Time of Torment       5    5100.92            Mystery
+      What Happened on Beale Street       5    2676.54            Mystery
+The Bachelor Girl's Guide to Murder       5    5517.65            Mystery
+                       The Silkworm       5    2431.78            Mystery
+                  The Girl You Lost       5    1296.59            Mystery
+                 A Flight of Arrows       5    5858.42 Historical Fiction
+                       Mrs. Houdini       5    3191.38 Historical Fiction
+              The Passion of Dolssa       5    2987.76 Historical Fiction
+                            Voyager       5    2222.89 Historical Fiction
+
+JOIN results equal: True
