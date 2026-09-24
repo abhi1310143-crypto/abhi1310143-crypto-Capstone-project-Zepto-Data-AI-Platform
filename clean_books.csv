@@ -1,0 +1,145 @@
+title,price_gbp,price_inr,rating,in_stock,category
+It's Only the Himalayas,45.17,4765.44,2,True,Travel
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,5214.86,4,True,Travel
+See America: A Celebration of Our National Parks & Treasured Sites,48.87,5155.78,3,True,Travel
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,3897.17,2,True,Travel
+Under the Tuscan Sun,37.33,3938.31,3,True,Travel
+A Summer In Europe,44.34,4677.87,2,True,Travel
+The Great Railway Bazaar,30.54,3221.97,1,True,Travel
+A Year in Provence,56.88,6000.84,4,True,Travel
+The Road to Little Dribbling: Adventures of an American in Britain,23.21,2448.66,1,True,Travel
+Neither Here nor There: Travels in Europe,38.95,4109.23,3,True,Travel
+"1,000 Places to See Before You Die",26.08,2751.44,5,True,Travel
+Sharp Objects,47.82,5045.01,4,True,Mystery
+"In a Dark, Dark Wood",19.63,2070.96,1,True,Mystery
+The Past Never Ends,56.5,5960.75,4,True,Mystery
+A Murder in Time,16.64,1755.52,1,True,Mystery
+The Murder of Roger Ackroyd,44.1,4652.55,4,True,Mystery
+The Last Mile,54.21,5719.16,2,True,Mystery
+That Darkness,13.92,1468.56,1,True,Mystery
+Tastes Like Fear,10.69,1127.79,1,True,Mystery
+A Time of Torment,48.35,5100.92,5,True,Mystery
+A Study in Scarlet,16.73,1765.02,2,True,Mystery
+Poisonous,26.8,2827.4,3,True,Mystery
+Murder at the 42nd Street Library,54.36,5734.98,4,True,Mystery
+Most Wanted,35.28,3722.04,3,True,Mystery
+Hide Away,11.84,1249.12,1,True,Mystery
+Boar Island,59.48,6275.14,3,True,Mystery
+The Widow,27.26,2875.93,2,True,Mystery
+Playing with Fire,13.71,1446.41,3,True,Mystery
+What Happened on Beale Street,25.37,2676.54,5,True,Mystery
+The Bachelor Girl's Guide to Murder,52.3,5517.65,5,True,Mystery
+Delivering the Truth,20.89,2203.9,4,True,Mystery
+The Mysterious Affair at Styles,24.8,2616.4,4,True,Mystery
+In the Woods,38.38,4049.09,2,True,Mystery
+The Silkworm,23.05,2431.78,5,True,Mystery
+The Exiled,43.45,4583.98,3,True,Mystery
+The Cuckoo's Calling,19.21,2026.66,1,True,Mystery
+Extreme Prey,25.4,2679.7,3,True,Mystery
+Career of Evil,24.72,2607.96,2,True,Mystery
+The No. 1 Ladies' Detective Agency,57.7,6087.35,4,True,Mystery
+The Girl You Lost,12.29,1296.59,5,True,Mystery
+The Girl In The Ice,15.85,1672.18,3,True,Mystery
+Blood Defense,20.3,2141.65,3,True,Mystery
+1st to Die,53.98,5694.89,1,True,Mystery
+Tipping the Velvet,53.74,5669.57,1,True,Historical Fiction
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,3132.3,3,True,Historical Fiction
+A Flight of Arrows,55.53,5858.42,5,True,Historical Fiction
+The House by the Lake,36.95,3898.23,1,True,Historical Fiction
+Mrs. Houdini,30.25,3191.38,5,True,Historical Fiction
+The Marriage of Opposites,28.08,2962.44,4,True,Historical Fiction
+Glory over Everything: Beyond The Kitchen House,45.84,4836.12,3,True,Historical Fiction
+"Love, Lies and Spies",20.55,2168.02,2,True,Historical Fiction
+A Paris Apartment,39.01,4115.55,4,True,Historical Fiction
+Lilac Girls,17.28,1823.04,2,True,Historical Fiction
+The Constant Princess,16.62,1753.41,3,True,Historical Fiction
+The Invention of Wings,37.34,3939.37,1,True,Historical Fiction
+World Without End,32.97,3478.34,4,True,Historical Fiction
+The Passion of Dolssa,28.32,2987.76,5,True,Historical Fiction
+Girl With a Pearl Earring,26.77,2824.24,1,True,Historical Fiction
+Voyager,21.07,2222.89,5,True,Historical Fiction
+The Red Tent,35.66,3762.13,5,True,Historical Fiction
+The Last Painting of Sara de Vos,55.55,5860.52,2,True,Historical Fiction
+The Guernsey Literary and Potato Peel Pie Society,49.53,5225.42,1,True,Historical Fiction
+Girl in the Blue Coat,46.83,4940.56,2,True,Historical Fiction
+Between Shades of Gray,20.79,2193.34,5,True,Historical Fiction
+While You Were Mine,41.32,4359.26,5,True,Historical Fiction
+The Secret Healer,34.56,3646.08,3,True,Historical Fiction
+Starlark,25.83,2725.06,3,True,Historical Fiction
+Lost Among the Living,27.7,2922.35,4,True,Historical Fiction
+A Spy's Devotion,16.97,1790.33,5,True,Historical Fiction
+Scott Pilgrim's Precious Little Life,52.29,5516.6,5,True,Sequential Art
+Tsubasa: WoRLD CHRoNiCLE 2,16.28,1717.54,1,True,Sequential Art
+This One Summer,19.49,2056.19,4,True,Sequential Art
+The Nameless City,38.16,4025.88,4,True,Sequential Art
+"Saga, Volume 5",51.04,5384.72,2,True,Sequential Art
+"Rat Queens, Vol. 3: Demons  #11-15",50.4,5317.2,3,True,Sequential Art
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01",13.61,1435.86,5,True,Sequential Art
+"Pop Gun War, Volume 1: Gift",18.97,2001.33,1,True,Sequential Art
+Patience,10.16,1071.88,3,True,Sequential Art
+"Outcast, Vol. 1: A Darkness Surrounds Him",15.44,1628.92,4,True,Sequential Art
+orange: The Complete Collection 1,48.41,5107.25,1,True,Sequential Art
+"Lumberjanes, Vol. 2: Friendship to the Max",46.91,4949.0,2,True,Sequential Art
+"Lumberjanes, Vol. 1: Beware the Kitten Holy",45.61,4811.85,3,True,Sequential Art
+Lumberjanes Vol. 3: A Terrible Plan,19.92,2101.56,2,True,Sequential Art
+"I Hate Fairyland, Vol. 1: Madly Ever After  #1-5",29.17,3077.44,2,True,Sequential Art
+I am a Hero Omnibus Volume 1,54.63,5763.46,3,True,Sequential Art
+"Giant Days, Vol. 2",22.11,2332.6,2,True,Sequential Art
+Danganronpa Volume 1,51.99,5484.95,4,True,Sequential Art
+"Codename Baboushka, Volume 1: The Conclave of Death",36.72,3873.96,4,True,Sequential Art
+Camp Midnight,17.08,1801.94,4,True,Sequential Art
+"Bitch Planet, Vol. 1: Extraordinary Machine",37.92,4000.56,2,True,Sequential Art
+The Shadow Hero,33.14,3496.27,1,True,Sequential Art
+"Fables, Vol. 1: Legends in Exile",41.62,4390.91,4,True,Sequential Art
+Batman: The Long Halloween,36.5,3850.75,2,True,Sequential Art
+Batman: The Dark Knight Returns,15.38,1622.59,5,True,Sequential Art
+"Wonder Woman: Earth One, Volume One",37.34,3939.37,4,True,Sequential Art
+"We Are Robin, Vol. 1: The Vigilante Business",53.9,5686.45,1,True,Sequential Art
+Through the Woods,25.38,2677.59,2,True,Sequential Art
+Superman Vol. 1: Before Truth,11.89,1254.4,5,True,Sequential Art
+"So Cute It Hurts!!, Vol. 6",35.43,3737.86,4,True,Sequential Art
+Robin War,47.82,5045.01,3,True,Sequential Art
+"Red Hood/Arsenal, Vol. 1: Open for Business",25.48,2688.14,2,True,Sequential Art
+"Naruto , Vol. 14: Includes Vols. 40, 41 & 42",38.39,4050.14,2,True,Sequential Art
+Lowriders to the Center of the Earth,51.51,5434.3,2,True,Sequential Art
+El Deafo,57.62,6078.91,5,True,Sequential Art
+Batman: Europa,32.01,3377.06,2,True,Sequential Art
+Art Ops Vol. 1,48.8,5148.4,3,True,Sequential Art
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,1149.95,2,True,Sequential Art
+"Fruits Basket, Vol. 9",33.95,3581.73,4,True,Sequential Art
+Roller Girl,14.1,1487.55,5,True,Sequential Art
+"Fruits Basket, Vol. 7",19.57,2064.64,1,True,Sequential Art
+"Fruits Basket, Vol. 6",20.96,2211.28,4,True,Sequential Art
+"Death Note, Vol. 6: Give-and-Take",36.39,3839.14,3,True,Sequential Art
+"Fruits Basket, Vol. 5",16.33,1722.81,1,True,Sequential Art
+"Death Note, Vol. 5: Whiteout",52.41,5529.25,1,True,Sequential Art
+"The Demon Prince of Momochi House, Vol. 4",27.88,2941.34,2,True,Sequential Art
+"Fruits Basket, Vol. 4",50.44,5321.42,4,True,Sequential Art
+"The Wicked + The Divine, Vol. 3: Commercial Suicide",14.41,1520.26,3,True,Sequential Art
+"The Sandman, Vol. 3: Dream Country",55.55,5860.52,5,True,Sequential Art
+"Saga, Volume 3",21.57,2275.64,5,True,Sequential Art
+Prodigy: The Graphic Novel,43.63,4602.96,3,True,Sequential Art
+Persepolis: The Story of a Childhood,39.13,4128.22,1,True,Sequential Art
+Original Fake,31.45,3317.98,3,True,Sequential Art
+"Grayson, Vol 3: Nemesis",42.72,4506.96,1,True,Sequential Art
+"Fruits Basket, Vol. 3",45.17,4765.44,2,True,Sequential Art
+"Black Butler, Vol. 1",49.31,5202.2,1,True,Sequential Art
+Awkward,38.02,4011.11,2,True,Sequential Art
+"The Sandman, Vol. 2: The Doll's House",54.81,5782.46,1,True,Sequential Art
+"Saga, Volume 2",11.75,1239.62,3,True,Sequential Art
+"Fruits Basket, Vol. 2",11.64,1228.02,5,True,Sequential Art
+"Y: The Last Man, Vol. 1: Unmanned",18.51,1952.8,4,True,Sequential Art
+"The Wicked + The Divine, Vol. 1: The Faust Act",36.52,3852.86,2,True,Sequential Art
+"The Sandman, Vol. 1: Preludes and Nocturnes",54.12,5709.66,3,True,Sequential Art
+The Complete Maus,10.64,1122.52,3,True,Sequential Art
+"Skip Beat!, Vol. 01",42.12,4443.66,3,True,Sequential Art
+"Saga, Volume 1",28.48,3004.64,1,True,Sequential Art
+"Rat Queens, Vol. 1: Sass & Sorcery  #1-5",46.96,4954.28,5,True,Sequential Art
+"Paper Girls, Vol. 1",21.71,2290.41,4,True,Sequential Art
+"Ouran High School Host Club, Vol. 1",29.87,3151.29,3,True,Sequential Art
+"Ms. Marvel, Vol. 1: No Normal",39.39,4155.65,4,True,Sequential Art
+"Hawkeye, Vol. 1: My Life as a Weapon",45.24,4772.82,3,True,Sequential Art
+"Giant Days, Vol. 1",56.76,5988.18,4,True,Sequential Art
+"Fruits Basket, Vol. 1",40.28,4249.54,5,True,Sequential Art
+"Bleach, Vol. 1: Strawberry and the Soul Reapers",34.65,3655.58,5,True,Sequential Art
+"Ajin: Demi-Human, Volume 1",57.06,6019.83,4,True,Sequential Art
