@@ -145,6 +145,15 @@ def main():
         how="inner"
     )
 
+    """
+   book_id is included only to break ties when multiple books share the
+   same rating, so sorting stays consistent and reproducible every time
+   (ascending id = earlier/lower id shown first among same-rating books).
+    It's not needed in the final output, so it's dropped after sorting
+    and filtering are done, leaving only the columns meant for display.
+
+    """
+
     pandas_join_result = merged_df[
         [   "book_id",
             "title",
